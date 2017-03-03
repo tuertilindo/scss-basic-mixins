@@ -1,0 +1,19 @@
+{
+  "name": "scss-basic-mixins",
+  "version": "1.0.0",
+  "description": "Sass mixins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuertilindo/scss-basic-mixins.git"
+  },
+  "author": "Tuertilindo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuertilindo/scss-basic-mixins/issues"
+  },
+  "homepage": "https://github.com/tuertilindo/scss-basic-mixins#readme"
+}
